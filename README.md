@@ -13,3 +13,5 @@ scrapy crawl imdb -o bestmovies.csv
 ```
 
 You can use pandas for explore the data.
+
+**HTTP_CACHE** is enable for development purpose
